@@ -8,5 +8,5 @@ A composite material consist of various materials exhibiting multiple mechancial
 # Autoencoder
 The given input is 28*28 dimensional image. Given the number of samples we have(2000) fitting a vanilla based CNN will overfit the model. Hence, it is necesary to reduce the dimension of the input to a manifold defined by an autoencoder.
 
-# DNN
+# ANN
 This ipynb file contains trained Fully Connected Neural Network that maps data present in the low dimensional manifold concatenated with corresponding Youngs modulous and poissons ratio to the equivalent material property.
